@@ -1,2 +1,1 @@
-# DosyaIslem
-dosyaişlemgithub
+# C# BasitHesapMakinası
